@@ -1,5 +1,5 @@
 # Instagram_Clone
-IG Clone using HTML &amp; CSS
+Instagram Clone using HTML &amp; CSS
 
                                            " Instagram Clone Frontend using HTML & CSS  "
 
